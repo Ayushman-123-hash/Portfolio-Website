@@ -6,7 +6,7 @@ This portfolio showcases my skills, projects, certifications, and development jo
 
 ## 🚀 Live Demo
 
-🔗 Add your GitHub Pages URL here
+🔗 https://portfolio-wheat-nine-53.vercel.app/
 
 ---
 
