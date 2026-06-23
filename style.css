@@ -493,8 +493,8 @@ section {
 
 .projects-grid{
     display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
-    gap:1.8rem;
+    grid-template-columns:repeat(auto-fit,minmax(290px,1fr));
+    gap:1.5rem;
 }
 
 .project-card{
