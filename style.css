@@ -577,11 +577,6 @@ section {
   color: var(--muted);
 }
 
-.project-links{
-    display: flex;
-    flex-direction: column;   /* agar upar-niche chahiye */
-    gap: 8px;                 /* yahi dono links ke beech ka gap hai */
-}
 
 .project-link {
   color: var(--accent2);
