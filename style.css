@@ -578,11 +578,7 @@ section {
 }
 
 .project-links{
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    flex-wrap: nowrap;
-    white-space: nowrap;
+    gap: 8px;
 }
 
 .project-link {
